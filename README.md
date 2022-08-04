@@ -12,7 +12,7 @@ pip2 install bs4
 
 pip2 install mechanize
 
-git clone https://github.com/JISAN-404/Sms-Bomber
+git clone https://github.com/xprotick/-protick
 
 cd Sms-Bomber
 
